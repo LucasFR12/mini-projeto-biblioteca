@@ -1,4 +1,4 @@
-# 📚 Sistema de Cadastro de Livros e Autores
+# 📚 Sistema de Cadastro de Autores e Livros
 
 Este é um mini projeto simples em Python desenvolvido para praticar **orientação a objetos** e **manipulação de arquivos JSON**.
 
@@ -7,7 +7,7 @@ Este é um mini projeto simples em Python desenvolvido para praticar **orientaç
 ## ✅ Funcionalidades
 
 - **Cadastrar autores** com nome e nacionalidade  
-- **Cadastrar livros** com título, ano e autor já cadastrado  
+- **Cadastrar livros** com título, ano e autor já cadastrado (Precisa ter o Autor cadastrado)  
 - **Listar todos os livros** cadastrados  
 - **Buscar livros por título**  
 - **Buscar livros por autor**  
